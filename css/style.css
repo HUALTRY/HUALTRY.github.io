@@ -11,12 +11,6 @@ th,td {
     padding: 20px 0;
 }
 
-.text-color{
-    background-color: #393939;    
-    padding: 10px 0;
-    color: white;
-}
-
 .table-target:hover {
     background-color: #F0F0F0;
 }
@@ -27,4 +21,13 @@ th,td {
 
 .text-right {
     text-align: right;
+}
+
+#rcorners1 {
+    border-radius: 15px;
+    background: #393939;
+    padding: 20px;
+    /*width: 5%;*/
+    height: 50%;
+    color: white;
 }
