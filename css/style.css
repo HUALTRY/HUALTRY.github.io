@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 table {
-    width: 50%;
+    width: 70%;
     border-collapse: collapse;
 }
 
@@ -23,11 +23,13 @@ th,td {
     text-align: right;
 }
 
-#rcorners1 {
+#rcorners {
     border-radius: 15px;
     background: #393939;
     padding: 20px;
-    /*width: 5%;*/
+    /*
+    width: 5%;
     height: 50%;
     color: white;
+    */
 }
