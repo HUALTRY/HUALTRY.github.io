@@ -17,6 +17,7 @@ th,td {
 
 .title-color {
     color: white;
+    text-shadow: 0px 2px 10px white;
 }
 
 .text-right {
