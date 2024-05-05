@@ -17,7 +17,12 @@ th,td {
 
 .title-color {
     color: white;
-    text-shadow: 0px 2px 10px white;
+    text-shadow: 0px 0px 10px white;
+}
+
+.tableTitle-color {
+    color: white;
+    text-shadow: 2px 2px 10px black;
 }
 
 .text-right {
